@@ -22,10 +22,10 @@ Main Page
 ![image](https://github.com/Ayush777Pal/Ecomerce_website/assets/160828413/01cb19b3-19fc-4ca5-b817-735750d33b4f)
 ![image](https://github.com/Ayush777Pal/Ecomerce_website/assets/160828413/4c449d82-cae4-4dfd-9043-73859bab73fe)
 <br/>
-### Sign In
+## Sign In
 <br/>
 ![image](https://github.com/Ayush777Pal/Ecomerce_website/assets/160828413/7d654013-2d97-4435-ae22-3843b77eeea2)
 <br/>
-### Sign Up
+## Sign Up
 <br/>
 ![image](https://github.com/Ayush777Pal/Ecomerce_website/assets/160828413/ec1b55de-1ef6-43c5-934f-4ca67aa36dfb)
