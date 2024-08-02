@@ -14,10 +14,12 @@ We can reach sign up and sign in page by just clicking on start your free trail 
 ### Indoor
 
 <br/>
+
 ![image](https://github.com/Ayush777Pal/Ecomerce_website/assets/160828413/855c6fa9-153a-4e33-84fa-0c521c33e7d0)
 ![image](https://github.com/Ayush777Pal/Ecomerce_website/assets/160828413/b80ca5a1-62a9-4169-99f6-ce7af9687b00)
 ![image](https://github.com/Ayush777Pal/Ecomerce_website/assets/160828413/eb8ca2f2-80c9-4392-88aa-d256cb01aea8)
 ![image](https://github.com/Ayush777Pal/Ecomerce_website/assets/160828413/6dce9ff7-f384-4f5e-b383-451acf1d4b46)
+
 <br/>
 
 ### Outdoor
